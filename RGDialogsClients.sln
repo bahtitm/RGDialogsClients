@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGDialogsClients", "RGDialogsClients\RGDialogsClients.csproj", "{3B5A5C3D-C18F-46CB-9633-B9390DA16570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B5A5C3D-C18F-46CB-9633-B9390DA16570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5A5C3D-C18F-46CB-9633-B9390DA16570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5A5C3D-C18F-46CB-9633-B9390DA16570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5A5C3D-C18F-46CB-9633-B9390DA16570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C438CD0D-9EB4-4536-9700-E3ACC2A53B15}
+	EndGlobalSection
+EndGlobal
